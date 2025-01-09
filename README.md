@@ -1,7 +1,7 @@
 # 👨‍💻 About Me
 
 
-Hello! I’m a BTech undergrad at IIT Jammu, exploring the world of programming. I’ve been learning HTML, CSS, and JavaScript, with some experience in Python and C++, and recently worked on my first project, Manomitra, IIT Jammu’s mental wellbeing website.
+Hello! I’m a BTech undergrad at IIT Jammu, exploring the world of programming. I’ve been learning Web Development, with some experience in Python and C++, and have worked on projects from IIT Jammu including their mental wellbeing website and astronomy club website
 
 🔭 **Currently working on:** Working on building projects to improve my development skills and learning Data Structures & Algorithms.
 
