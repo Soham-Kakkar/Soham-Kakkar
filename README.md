@@ -1,11 +1,11 @@
 # 👨‍💻 About Me
 
 
-Hello! I'm a BTech undergrad at IIT Jammu, passionate about systems programming while maintaining strong skills in backend and fullstack development. I've contributed to official IIT Jammu projects like the Mental Wellbeing website and the Astriaza (Astronomy Club) website, and I enjoy building projects from the ground up to really understand how things work.
+Hello! I'm a BTech undergrad at IIT Jammu, passionate about systems programming with strong experience in backend and fullstack development. I've contributed to official IIT Jammu projects like the Mental Wellbeing website and the Astriaza (Astronomy Club) website, and I enjoy building projects from the ground up to really understand how things work.
 
 🔭 **Currently working on:** Learning low-level development and strengthening my foundation in systems programming.
 
-🤝 **Open to collaborating on:** Projects in system-level development, backend engineering, or real-world tools that that focus on impactful problem-solving.
+🤝 **Open to collaborating on:** Projects in system-level development, backend engineering, or real-world tools that drive impactful problem-solving.
 
 ✋ **Looking to learn more about:** Programming language design, OS development, modular architectures, and optimization techniques for scalable applications.
 
