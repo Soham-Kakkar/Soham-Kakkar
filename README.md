@@ -1,5 +1,9 @@
-# 👨‍💻 About Me
+<h1 align="center"> Hi 👋, I'm Soham </h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
+## 👨‍💻 About Me
 
 Hello! I'm a BTech undergrad at IIT Jammu, passionate about systems programming with strong experience in backend and fullstack development. I've contributed to official IIT Jammu projects like the Mental Wellbeing website and the Astriaza (Astronomy Club) website, and I enjoy building projects from the ground up to really understand how things work.
 
@@ -7,7 +11,7 @@ Hello! I'm a BTech undergrad at IIT Jammu, passionate about systems programming 
 
 🤝 **Open to collaborating on:** Projects in system-level development, backend engineering, or real-world tools that drive impactful problem-solving.
 
-✋ **Looking to learn more about:** Programming language design, OS development, modular architectures, and optimization techniques for scalable applications.
+✋ **Looking to learn more about:** System design, programming language design, OS development, modular architectures, and optimization techniques for scalable applications.
 
 🌱 **Always learning:** Exploring how low-level systems power high-level applications, while sharpening my skills in backend and performance engineering.
 
@@ -19,7 +23,7 @@ Hello! I'm a BTech undergrad at IIT Jammu, passionate about systems programming 
 
 Feel free to reach out if you're interested in collaborating or have any advice on backend development and full-stack projects!
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -33,10 +37,10 @@ Feel free to reach out if you're interested in collaborating or have any advice 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![PostgresSQL](https://img.shields.io/badge/postgresql-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Kakkar&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Soham-Kakkar&layout=compact&theme=dark)
 
 ---
 ![](https://komarev.com/ghpvc/?username=Soham-Kakkar&abbreviated=true)
