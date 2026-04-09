@@ -13,7 +13,7 @@ I'm a **B.Tech student at IIT Jammu** working on **backend systems** and moving 
 
 I have built and shipped systems that handle real users, dealing with authentication, reliability, deployment, and performance instead of just local projects or demos.
 
-I led backend development for the J&K Police tenant verification system (Kirayedar), where I worked on designing secure workflows and ensuring the system held up in production.
+I led the development and deployment for the J&K Police tenant verification system, ![Kirayedar](https://tenant.jkpverify.in), where I worked on designing secure workflows and ensuring the system held up in production.
 
 Lately, I’ve been going deeper into **low-level systems** — memory, concurrency, and OS concepts — trying to bridge the gap between high-level applications and the systems that power them.
 
