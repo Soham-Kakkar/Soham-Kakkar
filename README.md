@@ -7,7 +7,7 @@
 
 </div>
 
-👋 I'm **Soham Kakkar**, a B.Tech student at **IIT Jammu**, working with **backend systems** systems and exploring **systems programming**.
+👋 I'm **Soham Kakkar**, a B.Tech student at **IIT Jammu**, working with **backend systems** and exploring **systems programming**.
 
 I like building things that survive contact with real users — auth, reliability, deployment, the unglamorous stuff that decides whether software actually *works*.
 
