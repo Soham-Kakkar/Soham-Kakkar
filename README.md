@@ -74,8 +74,7 @@ Lately I've been going lower: memory, concurrency, OS internals. Turns out it's 
 ![CMake](https://img.shields.io/badge/cmake-064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 # 📊 GitHub Stats
-
-![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Soham-Kakkar&theme=dark&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Soham-Kakkar&theme=dark&layout=compact&hide=jupyter%20notebook)
 
 ---
 > *"It's abstractions all the way down."* <br/> — me, at 2am, reading a man page
